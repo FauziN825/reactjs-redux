@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Faujzi Nabbani uhuy",
+          "alamat": "Cipicung",
+          "umur": 23,
+          "noHp": "087779091365"
+        },
+        {
+          "id": 2,
+          "nama": "Faruq",
+          "alamat": "Jakarta",
+          "umur": 23,
+          "noHp": "087779091365"
+        },
+        {
+          "id": 3,
+          "nama": "Nabbani",
+          "alamat": "Bandung",
+          "umur": 23,
+          "noHp": "087779091365"
+        },
+        {
+          "id": 4,
+          "nama": "Nabbani",
+          "alamat": "Bandung",
+          "umur": 23,
+          "noHp": "087779091365"
+        },
+        {
+          "id": 5,
+          "nama": "Nabbani",
+          "alamat": "Bandung",
+          "umur": 23,
+          "noHp": "087779091365"
+        }
+      ]
+}
